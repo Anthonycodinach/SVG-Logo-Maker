@@ -22,3 +22,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 Jest, Inquirer
 
 ## Video Demo
+https://youtu.be/Rp-DnxoJxdI
