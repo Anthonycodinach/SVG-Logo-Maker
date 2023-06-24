@@ -36,7 +36,7 @@ function init() {
         } else {
             newShape = new Triangle(response.shapeColor, response.textColor, response.logoText)
         }
-        fs.writeFile("square.svg", newShape.generate(response), (error) => {
+        fs.writeFile("logo.svg", newShape.generate(response), (error) => {
             if (error) {
                 console.log(error);
             } else {
